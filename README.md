@@ -79,7 +79,9 @@ policystat_texts/
 │   │   ├── 2021 – 2022 Emergency Grant Allocation.txt
 │   │   ├── CSU Emergency Assistance Grant Application Example.pdf
 ```
+We also used custom code to scrape policy documents from behind a login screen.
 
+  Same directory structure. 
 ---
 
 ### 4. Chunking Policy Texts and PDFs
